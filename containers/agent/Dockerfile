@@ -1,4 +1,4 @@
-FROM ubuntu:22.04
+FROM ubuntu:26.04
 
 # Install required packages and Node.js 22
 RUN apt-get update && \
